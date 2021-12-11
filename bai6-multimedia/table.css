@@ -1,0 +1,17 @@
+/* .thead {
+  margin-bottom: 20px;
+}
+.tbody {
+  margin: 20px;
+} */
+.item {
+  background-color: aqua;
+  border: 1px solid red;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+table {
+  caption-side: bottom;
+  border-collapse: collapse;
+}
